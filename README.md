@@ -8,7 +8,7 @@
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node JS">
 <img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" />
 <img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" />
-<img height="25" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" />
+<img height="25" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/2331dded51784b78b8b66fd83037b2f2e28943e3/svg_logos/docker_logo.svg" alt="Docker" />
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal">
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" /></code>
