@@ -4,7 +4,7 @@
 <img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" /></code>
 <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" /></code>
 <img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"  />
-<img height="30" height="40" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/groovy_logo.png" alt="Groovy" /></code>
+<img width="30" height="40" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/groovy_logo.png" alt="Groovy" /></code>
 <img height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/nodejs.png" alt="Node JS">
 <img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" />
 <img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" />
