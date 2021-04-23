@@ -45,5 +45,6 @@
 <p align="left">
 
 <a href="https://linkedin.com/in/ldcgsi/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCQF3M1Lvv0IITTC0rdTtN6Q"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
 
 </p>
