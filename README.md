@@ -36,4 +36,12 @@
 <div align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrocgsi&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=default"/>	
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrocgsi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
-</div>	
+</div>
+
+### Let's connect? 🤝
+
+<p align="left">
+
+<a href="https://linkedin.com/in/ldcgsi/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+
+</p>
