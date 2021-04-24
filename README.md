@@ -48,5 +48,6 @@
 <a href="https://www.youtube.com/channel/UCQF3M1Lvv0IITTC0rdTtN6Q"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
 <a href="https://www.erudio.com.br/blog/"><img src="https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&label=Erudio&logoColor=white"/></a>
 <a href="https://www.semeru.com.br/blog/"><img src="https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&label=Semeru&logoColor=white"/></a>
+<a><img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=leandrocgsi&repo=leandrocgsi&countColorcountColor"/></a>
 
 </p>
