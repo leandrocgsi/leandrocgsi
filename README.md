@@ -51,3 +51,5 @@
 <a><img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=leandrocgsi&repo=leandrocgsi&countColorcountColor?style=flat"/></a>
 
 </p>
+
+[default_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=default
