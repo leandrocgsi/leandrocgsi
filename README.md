@@ -51,6 +51,4 @@
 <a href="https://hub.docker.com/search?q=leandrocgsi&type=image"><img src="https://img.shields.io/badge/DockerHub-DockerHub%20Account-blue"/></a>
 <a>![visitor badge](https://visitor-badge.glitch.me/badge?page_id=leandrocgsi.visitor-badge)</a>
 
-https://img.shields.io/badge/DockerHub-DockerHub%20Account-blue
-
 </p>
