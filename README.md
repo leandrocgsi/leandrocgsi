@@ -60,7 +60,7 @@
 
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/waterfall.png?raw=true "Do Waterfall ao Scrum: Acerte na Mudança do Modelo de Gestão")](https://www.udemy.com/course/do-waterfall-ao-scrum-acerte-na-mudanca-do-modelo-de-gestao/?couponCode=GTHB_FLASH_SALE2019)
 
-[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/waterfall.png?raw=true "Do Career Hacking: Atalhos para o sucesso em TI")](https://www.udemy.com/course/career-hacking-atalhos-para-o-sucesso-em-ti/?couponCode=GTHB_FLASH_SALE2019)
+[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/career.png?raw=true "Do Career Hacking: Atalhos para o sucesso em TI")](https://www.udemy.com/course/career-hacking-atalhos-para-o-sucesso-em-ti/?couponCode=GTHB_FLASH_SALE2019)
 
 ## In English
 
