@@ -40,6 +40,10 @@
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=leandrocgsi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
 </div>
 
+# [Download e-Book Grátis](https://pub.erudio.com.br/guia-docker)
+
+[![e-Book Grátis](https://github.com/leandrocgsi/DockerFromZeroToMastery/blob/master/Images/ebook.png?raw=true)](https://pub.erudio.com.br/guia-docker)
+
 # My Courses
 
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/docker_do_zero_a_maestria_conteinerizacao_desmistificada.png?raw=true "Docker do 0 à Maestria: Contêineres Desmistificados + BÔNUS")](https://www.udemy.com/course/docker-do-zero-a-maestria-conteinerizacao-desmistificada/?referralCode=47C7146F506F6CB0C4B3)
