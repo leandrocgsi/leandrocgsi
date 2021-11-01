@@ -81,7 +81,7 @@
 <a href="https://www.erudio.com.br/blog/"><img src="https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&label=Erudio&logoColor=white"/></a>
 <a href="https://www.semeru.com.br/blog/"><img src="https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&label=Semeru&logoColor=white"/></a>
 [![GitHub followers](https://img.shields.io/github/followers/leandrocgsi.svg?style=social&label=Follow)](https://github.com/leandrocgsi?tab=followers)
-<a href="https://hub.docker.com/search?q=leandrocgsi&type=image"><img src="https://img.shields.io/badge/DockerHub-leandrocgsi-blue"/></a>
+<a href="https://hub.docker.com/u/leandrocgsi/"><img src="https://img.shields.io/badge/DockerHub-leandrocgsi-blue"/></a>
 <a>![visitor badge](https://visitor-badge.glitch.me/badge?page_id=leandrocgsi.visitor-badge)</a>
 
 </p>
