@@ -40,8 +40,6 @@
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=leandrocgsi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
 </div>
 
-<codersrank-timeline username="leandrocgsi" type="technologies"></codersrank-timeline>
-
 # [Download e-Book Grátis](https://pub.erudio.com.br/guia-docker)
 
 [![e-Book Grátis](https://github.com/leandrocgsi/DockerFromZeroToMastery/blob/master/Images/ebook.png?raw=true)](https://pub.erudio.com.br/guia-docker)
@@ -89,3 +87,10 @@
 <a>![visitor badge](https://visitor-badge.glitch.me/badge?page_id=leandrocgsi.visitor-badge)</a>
 
 </p>
+
+
+<div id="statistics_contributions_block_id" align="center" style="align-content: center; text-align:center;">
+    <a href="https://profile.codersrank.io/user/leandrocgsi" target="_blank">
+        <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=leandrocgsi&heigth=300" alt="CodersRank skills chart" />
+    </a>
+</div>
