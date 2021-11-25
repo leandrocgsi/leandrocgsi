@@ -88,9 +88,13 @@
 
 </p>
 
+### ⚡ Technologies Stats</b></summary>
 
 <div id="statistics_contributions_block_id" align="center" style="align-content: center; text-align:center;">
     <a href="https://profile.codersrank.io/user/leandrocgsi" target="_blank">
         <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=leandrocgsi&heigth=300" alt="CodersRank skills chart" />
     </a>
 </div>
+<script src="https://unpkg.com/@codersrank/timeline@0.9.2/codersrank-timeline.min.js"></script>
+
+<codersrank-timeline username="leandrocgsi" type="technologies"></codersrank-timeline>
