@@ -1,7 +1,5 @@
 ### 🚀 Languages and Tools:</summary>
 
-<script src="https://unpkg.com/@codersrank/timeline@0.9.2/codersrank-timeline.min.js"></script>
-
 <p align="left">
 <img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" /></code>
 <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" /></code>
