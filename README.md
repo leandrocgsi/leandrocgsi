@@ -95,6 +95,3 @@
         <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=leandrocgsi&heigth=300" alt="CodersRank skills chart" />
     </a>
 </div>
-<script src="https://unpkg.com/@codersrank/timeline@0.9.2/codersrank-timeline.min.js"></script>
-
-<codersrank-timeline username="leandrocgsi" type="technologies"></codersrank-timeline>
