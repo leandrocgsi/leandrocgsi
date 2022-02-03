@@ -44,6 +44,19 @@
 
 [![e-Book Grátis](https://github.com/leandrocgsi/DockerFromZeroToMastery/blob/master/Images/ebook.png?raw=true)](https://pub.erudio.com.br/guia-docker)
 
+# Most Popular Repos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=RestWithASP-NET5Udemy)](https://github.com/leandrocgsi/RestWithASP-NET5Udemy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=RestWithSpringBootUdemy)](https://github.com/leandrocgsi/RestWithSpringBootUdemy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=erudio-microservices-dotnet6)](https://github.com/leandrocgsi/erudio-microservices-dotnet6)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=erudio-microservices)](https://github.com/leandrocgsi/erudio-microservices)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=DockerFromZeroToMastery)](https://github.com/leandrocgsi/DockerFromZeroToMastery)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=DockerFromZeroToMastery-NodeJS-ReactJS)](https://github.com/leandrocgsi/DockerFromZeroToMastery-NodeJS-ReactJS )
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=DockerFromZeroToMastery-SpingBootAndJava)](https://github.com/leandrocgsi/DockerFromZeroToMastery-SpingBootAndJava)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=DockerFromZeroToMastery-ASP-NETCore)](https://github.com/leandrocgsi/DockerFromZeroToMastery-ASP-NETCore)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=DockerToAWSWithJava)](https://github.com/leandrocgsi/DockerToAWSWithJava)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=DockerToAWSWithDotNet)](https://github.com/leandrocgsi/DockerToAWSWithDotNet)
+
 # My Courses
 
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/docker_do_zero_a_maestria_conteinerizacao_desmistificada.png?raw=true "Docker do Zero à Maestria - Contêinerização Desmistificada")](https://www.udemy.com/course/docker-do-zero-a-maestria-conteinerizacao-desmistificada/?couponCode=GTHB_FLASH_SALE2021)
