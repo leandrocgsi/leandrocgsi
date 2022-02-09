@@ -1,32 +1,32 @@
 ### 🚀 Languages and Tools:</summary>
 
 <p align="left">
-<img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" /></code>
-<img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" /></code>
-<img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"  />
-<img width="30" height="30" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/groovy_logo.png" alt="Groovy" /></code>
-<img height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/nodejs.png" alt="Node JS">
-<img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" />
-<img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" />
-<img height="25" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/2331dded51784b78b8b66fd83037b2f2e28943e3/svg_logos/docker_logo.svg" alt="Docker" />
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal">
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" /></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" /></code>
-<img width="25" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/grails-logo.jpg" alt="Grails" /></code>
-<img width="25" height="25" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_maven.svg" alt="Apache Maven" /></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" /></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="Travis CI" /></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" /></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" alt="Swagger - Open API" /></code>
-<img width="25" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/amazon_aws-icon.png" alt="Amazon AWS" /></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Microsoft Azure" /></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL"/></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="Postgres SQL"/></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle"/></code>
-<img width="22" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/microsoft-sql-server.png" alt="SQL Server"/></code>
-<img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="GIT">
-<img width="25" height="25" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/main/svg_logos/react-original-wordmark.svg" alt="React JS" />
-<img width="25" height="25" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/main/svg_logos/angularjs-original.svg" alt="Angular JS" />
+<img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
+<img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" /></code>
+<img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" />
+<img width="30" height="30" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/groovy_logo.png" title="Groovy" alt="Groovy" /></code>
+<img height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/nodejs.png" title="Node JS" alt="Node JS">
+<img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" />
+<img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" />
+<img height="25" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/2331dded51784b78b8b66fd83037b2f2e28943e3/svg_logos/docker_logo.svg" title="Docker" alt="Docker" />
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" alt="Terminal">
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" /></code>
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" title="Hibernate" alt="Hibernate" /></code>
+<img width="25" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/grails-logo.jpg" title="Grails" alt="Grails" /></code>
+<img width="25" height="25" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_maven.svg" title="Apache Maven" alt="Apache Maven" /></code>
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" title="Jenkins" alt="Jenkins" /></code>
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" title="Travis CI" alt="Travis CI" /></code>
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" /></code>
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" title="Swagger - Open API" alt="Swagger - Open API" /></code>
+<img width="25" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/amazon_aws-icon.png" title="Amazon AWS" alt="Amazon AWS" /></code>
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="Microsoft Azure" alt="Microsoft Azure" /></code>
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" alt="MySQL"/></code>
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="Postgres SQL" alt="Postgres SQL"/></code>
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" title="Oracle" alt="Oracle"/></code>
+<img width="22" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/microsoft-sql-server.png" title="SQL Server" alt="SQL Server"/></code>
+<img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="GIT" alt="GIT">
+<img width="25" height="25" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/main/svg_logos/react-original-wordmark.svg" title="React JS" alt="React JS" />
+<img width="25" height="25" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/main/svg_logos/angularjs-original.svg" title="Angular JS" alt="Angular JS" />
 
 </p>
 
@@ -104,7 +104,7 @@
 ### ⚡ Technologies Stats</b></summary>
 
 <div id="statistics_contributions_block_id" align="center" style="align-content: center; text-align:center;">
-    <a href="https://profile.codersrank.io/user/leandrocgsi" target="_blank">
-        <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=leandrocgsi&heigth=300" alt="CodersRank skills chart" />
-    </a>
+ <a href="https://profile.codersrank.io/user/leandrocgsi" target="_blank">
+ <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=leandrocgsi&heigth=300" alt="CodersRank skills chart" />
+ </a>
 </div>
