@@ -47,8 +47,6 @@
 
 # Most Popular Repos
 
-!![demographics map]('https://github.com/leandrocgsi/leandrocgsi/blob/main/embedded/leandrocgsi.html')
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=RestWithASP-NET5Udemy)](https://github.com/leandrocgsi/RestWithASP-NET5Udemy)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=RestWithSpringBootUdemy)](https://github.com/leandrocgsi/RestWithSpringBootUdemy)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=erudio-microservices-dotnet6)](https://github.com/leandrocgsi/erudio-microservices-dotnet6)
@@ -71,6 +69,8 @@
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/rest_apis_restful_do_0_a_nuvem_com_asp_net_core_e_docker.png?raw=true "REST API's RESTFul do 0 à Azure com ASP.NET Core 5 e Docker")](https://www.udemy.com/course/restful-apis-do-0-a-nuvem-com-aspnet-core-e-docker/?couponCode=GTHB_FLASH_SALE2021)
 
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/rest_apis_restful_do_0_à_nuvem_com_spring_boot_2_e_docker.png?raw=true "REST API's RESTFul do 0 à AWS com Spring Boot 3, Java e Docker")](https://www.udemy.com/course/restful-apis-do-0-a-nuvem-com-springboot-e-docker/?couponCode=GTHB_FLASH_SALE2021)
+
+[![Image](https://raw.githubusercontent.com/leandrocgsi/RestWithSpringBootUdemy/master/Images/kotlin_4_devs_java.png?raw=true "Kotlin para DEVs Java: Aprenda a Linguagem Padrão do Android")](https://www.udemy.com/course/kotlin-para-devs-java-domine-a-linguagem-padrao-do-android/?couponCode=GTHB_FLASH_SALE2021)
 
 [![Image](https://raw.githubusercontent.com/leandrocgsi/RestWithSpringBootUdemy/master/Images/rest_kotlin.png?raw=true "REST API's RESTFul do 0 à AWS com Spring Boot, Kotlin e Docker")](https://pub.erudio.com.br/meus-cursos)
 
