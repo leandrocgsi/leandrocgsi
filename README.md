@@ -72,7 +72,7 @@
 
 [![Image](https://raw.githubusercontent.com/leandrocgsi/RestWithSpringBootUdemy/master/Images/kotlin_4_devs_java.png?raw=true "Kotlin para DEVs Java: Aprenda a Linguagem Padrão do Android")](https://www.udemy.com/course/kotlin-para-devs-java-domine-a-linguagem-padrao-do-android/?couponCode=GTHB_FLASH_SALE2021)
 
-[![Image](https://raw.githubusercontent.com/leandrocgsi/RestWithSpringBootUdemy/master/Images/rest_kotlin.png?raw=true "REST API's RESTFul do 0 à AWS com Spring Boot, Kotlin e Docker")](https://pub.erudio.com.br/meus-cursos)
+[![Image](https://raw.githubusercontent.com/leandrocgsi/RestWithSpringBootUdemy/master/Images/rest_kotlin.png?raw=true "REST API's RESTFul do 0 à AWS com Spring Boot, Kotlin e Docker")](https://www.udemy.com/course/restful-apis-do-0-a-aws-com-spring-boot-3-kotlin-e-docker/?couponCode=GTHB_FLASH_SALE2021)
 
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/react_kotlin.png?raw=true "React JS consumindo REST API RESTful em Spring Boot e Kotlin")](https://www.udemy.com/course/aprenda-consumir-apis-restful-em-spring-boot-kotlin-com-react-js-axios/?couponCode=GTHB_FLASH_SALE2021)
 
