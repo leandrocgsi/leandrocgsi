@@ -109,7 +109,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/leandrocgsi.svg?style=social&label=Follow)](https://github.com/leandrocgsi?tab=followers)
 <a href="https://hub.docker.com/u/leandrocgsi/"><img src="https://img.shields.io/badge/DockerHub-leandrocgsi-blue"/></a>
 <a href="https://stackoverflow.com/users/4784591/leandro-costa">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-11-F47F24">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-21-F47F24">
 </a>
 <a>![visitor badge](https://visitor-badge.glitch.me/badge?page_id=leandrocgsi.visitor-badge)</a>
 
