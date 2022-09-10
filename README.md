@@ -48,7 +48,7 @@
 # Most Popular Repos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=RestWithASP-NET5Udemy)](https://github.com/leandrocgsi/RestWithASP-NET5Udemy)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=RestWithSpringBootUdemy)](https://github.com/leandrocgsi/RestWithSpringBootUdemy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=rest-with-spring-boot-and-java-erudio)](https://github.com/leandrocgsi/rest-with-spring-boot-and-java-erudio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=erudio-microservices-dotnet6)](https://github.com/leandrocgsi/erudio-microservices-dotnet6)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=erudio-microservices)](https://github.com/leandrocgsi/erudio-microservices)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=DockerFromZeroToMastery)](https://github.com/leandrocgsi/DockerFromZeroToMastery)
@@ -64,7 +64,7 @@
 
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/microservices.png?raw=true "Microservices do 0 à GCP com Spring Boot, Kubernetes e Docker")](https://www.udemy.com/course/microservices-do-0-a-gcp-com-spring-boot-kubernetes-e-docker/?couponCode=GTHB_FLASH_SALE2021)
 
-[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/microservices_.net6.png?raw=true "Arquitetura de Microsserviços do 0 com ASP.NET, .NET 6 e C#")](https://www.udemy.com/course/microservices-do-0-a-gcp-com-dot-net-6-kubernetes-e-docker/?referralCode=27F152EC12E6B503A13B)
+[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/microservices_.net6.png?raw=true "Arquitetura de Microsserviços do 0 com ASP.NET, .NET 6 e C#")](https://www.udemy.com/course/microservices-do-0-a-gcp-com-dot-net-6-kubernetes-e-docker/?couponCode=GTHB_FLASH_SALE2021)
 
 
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/microservices_kotlin?raw=true "Microservices do 0 à GCP com Spring Cloud, Kotlin, K8s e Docker")](https://www.udemy.com/course/microsservicos-do-0-a-gcp-c-spring-cloud-kotlin-kubernetes-e-docker/?couponCode=GTHB_FLASH_SALE2021)
@@ -75,9 +75,9 @@
 
 [![Image](https://raw.githubusercontent.com/leandrocgsi/RestWithSpringBootUdemy/master/Images/kotlin_4_devs_java.png?raw=true "Kotlin para DEVs Java: Aprenda a Linguagem Padrão do Android")](https://www.udemy.com/course/kotlin-para-devs-java-domine-a-linguagem-padrao-do-android/?couponCode=GTHB_FLASH_SALE2021)
 
-[![Image](https://raw.githubusercontent.com/leandrocgsi/RestWithSpringBootUdemy/master/Images/rest_kotlin.png?raw=true "REST API's RESTFul do 0 à AWS com Spring Boot, Kotlin e Docker")](https://pub.erudio.com.br/meus-cursos)
+[![Image](https://raw.githubusercontent.com/leandrocgsi/RestWithSpringBootUdemy/master/Images/rest_kotlin.png?raw=true "REST API's RESTFul do 0 à AWS com Spring Boot, Kotlin e Docker")](https://www.udemy.com/course/restful-apis-do-0-a-aws-com-spring-boot-3-kotlin-e-docker/?couponCode=GTHB_FLASH_SALE2021)
 
-[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/react_kotlin.png?raw=true "React JS consumindo REST API RESTful em Spring Boot e Kotlin")](https://www.udemy.com/course/aprenda-consumir-apis-restful-em-spring-boot-kotlin-com-react-js-axios/?referralCode=18299D89A6DCEDA8E3F8)
+[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/react_kotlin.png?raw=true "React JS consumindo REST API RESTful em Spring Boot e Kotlin")](https://www.udemy.com/course/aprenda-consumir-apis-restful-em-spring-boot-kotlin-com-react-js-axios/?couponCode=GTHB_FLASH_SALE2021)
 
 [![Image](https://raw.githubusercontent.com/leandrocgsi/RestWithSpringBootUdemy/master/Images/react_java.png "React JS consumindo REST API RESTful em Spring Boot Java 16")](https://www.udemy.com/course/aprenda-consumir-apis-restful-em-spring-boot-java-com-react-js-axios/?couponCode=GTHB_FLASH_SALE2021)
 
@@ -91,7 +91,7 @@
 
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/spotify.png?raw=true "Spotify Engineering Culture Desmistificado")](https://www.udemy.com/course/spotify-engineering-culture-desmistificado/?couponCode=GTHB_FLASH_SALE2021)
 
-[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/waterfall.png?raw=true "Do Waterfall ao Scrum: Acerte na Mudança do Modelo de Gestão")](https://www.udemy.com/course/do-waterfall-ao-scrum-acerte-na-mudanca-do-modelo-de-gestao/?couponCode=GTHB_FLASH_SALE2021)
+[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/waterfall.png?raw=true "Do Waterfall ao Scrum: Acerte na Mudança do Modelo de Gestão")](https://www.udemy.com/course/do-waterfall-ao-scrum-acerte-na-mudanca-do-modelo-de-gestao/?couponCode=GTHB_FLASH_SALE2022)
 
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/career.png?raw=true "Do Career Hacking: Atalhos para o sucesso em TI")](https://www.udemy.com/course/career-hacking-atalhos-para-o-sucesso-em-ti/?couponCode=GTHB_FLASH_SALE2021)
 
@@ -111,6 +111,9 @@
 <a href="https://www.semeru.com.br/blog/"><img src="https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&label=Semeru&logoColor=white"/></a>
 [![GitHub followers](https://img.shields.io/github/followers/leandrocgsi.svg?style=social&label=Follow)](https://github.com/leandrocgsi?tab=followers)
 <a href="https://hub.docker.com/u/leandrocgsi/"><img src="https://img.shields.io/badge/DockerHub-leandrocgsi-blue"/></a>
+<a href="https://stackoverflow.com/users/4784591/leandro-costa">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-21-F47F24">
+</a>
 <a>![visitor badge](https://visitor-badge.glitch.me/badge?page_id=leandrocgsi.visitor-badge)</a>
 
 </p>
