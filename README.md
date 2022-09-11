@@ -89,6 +89,10 @@
 
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/trello.png?raw=true "Trello: Gestão Otimizada de Equipes e Projetos Pessoais")](https://www.udemy.com/course/trello-gestao-otimizada-de-equipes-e-projetos-pessoais/?couponCode=GTHB_FLASH_SALE2021)
 
+[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/remote_scrum.png?raw=true "Agile e Scrum para Times em Home Office com Trello")](https://www.udemy.com/course/agile-e-scrum-para-times-remotos-home-office-com-trello/?couponCode=GTHB_FLASH_SALE2021)
+
+[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/remote_kanban.png?raw=true "Agile e Kanban para Times em Home Office com Trello")](https://www.udemy.com/course/agile-e-kanban-para-times-remotos-home-office-com-trello/?couponCode=GTHB_FLASH_SALE2021)
+
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/spotify.png?raw=true "Spotify Engineering Culture Desmistificado")](https://www.udemy.com/course/spotify-engineering-culture-desmistificado/?couponCode=GTHB_FLASH_SALE2021)
 
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/waterfall.png?raw=true "Do Waterfall ao Scrum: Acerte na Mudança do Modelo de Gestão")](https://www.udemy.com/course/do-waterfall-ao-scrum-acerte-na-mudanca-do-modelo-de-gestao/?couponCode=GTHB_FLASH_SALE2022)
