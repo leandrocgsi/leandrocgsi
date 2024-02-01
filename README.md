@@ -31,6 +31,23 @@
 
 </p>
 
+
+### Let's connect? 🤝
+
+<p align="left">
+
+<a href="https://linkedin.com/in/ldcgsi/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCQF3M1Lvv0IITTC0rdTtN6Q"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+<a href="https://www.erudio.com.br/blog/"><img src="https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&label=Erudio&logoColor=white"/></a>
+<a href="https://www.semeru.com.br/blog/"><img src="https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&label=Semeru&logoColor=white"/></a>
+[![GitHub followers](https://img.shields.io/github/followers/leandrocgsi.svg?style=social&label=Follow)](https://github.com/leandrocgsi?tab=followers)
+<a href="https://hub.docker.com/u/leandrocgsi/"><img src="https://img.shields.io/badge/DockerHub-leandrocgsi-blue"/></a>
+<a href="https://stackoverflow.com/users/4784591/leandro-costa">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-41-F47F24">
+</a>
+[![Donate with PayPal](https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=ZJ4NQJXEKQ63A)
+<a>![visitor badge](https://visitor-badge.glitch.me/badge?page_id=leandrocgsi.visitor-badge)</a>
+
 #
 
 ### ⚡ Github Stats</b></summary>
@@ -114,20 +131,6 @@
 
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/docker_to_amazon_aws_deploy_apps_java_and_dot_net_with_travis_ci.png?raw=true "Docker to Amazon AWS Deploy Java & .NET Apps with Travis CI")](https://www.udemy.com/course/docker-to-amazon-aws-deploy-java-net-apps-with-travis-ci/?couponCode=GTHB_FLASH_SALE2021)
 
-### Let's connect? 🤝
-
-<p align="left">
-
-<a href="https://linkedin.com/in/ldcgsi/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UCQF3M1Lvv0IITTC0rdTtN6Q"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
-<a href="https://www.erudio.com.br/blog/"><img src="https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&label=Erudio&logoColor=white"/></a>
-<a href="https://www.semeru.com.br/blog/"><img src="https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&label=Semeru&logoColor=white"/></a>
-[![GitHub followers](https://img.shields.io/github/followers/leandrocgsi.svg?style=social&label=Follow)](https://github.com/leandrocgsi?tab=followers)
-<a href="https://hub.docker.com/u/leandrocgsi/"><img src="https://img.shields.io/badge/DockerHub-leandrocgsi-blue"/></a>
-<a href="https://stackoverflow.com/users/4784591/leandro-costa">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-41-F47F24">
-</a>
-<a>![visitor badge](https://visitor-badge.glitch.me/badge?page_id=leandrocgsi.visitor-badge)</a>
 
 </p>
 
