@@ -45,7 +45,7 @@
 <a href="https://stackoverflow.com/users/4784591/leandro-costa">
     <img src="https://img.shields.io/badge/Stack%20Overflow-41-F47F24">
 </a>
-[![Donate with PayPal](https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=ZJ4NQJXEKQ63A)
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=ZJ4NQJXEKQ63A)
 <a>![visitor badge](https://visitor-badge.glitch.me/badge?page_id=leandrocgsi.visitor-badge)</a>
 
 #
