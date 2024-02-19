@@ -31,10 +31,27 @@
 
 </p>
 
+
+### Let's connect? 🤝
+
+<p align="left">
+
+<a href="https://linkedin.com/in/ldcgsi/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCQF3M1Lvv0IITTC0rdTtN6Q"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+<a href="https://www.erudio.com.br/blog/"><img src="https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&label=Erudio&logoColor=white"/></a>
+<a href="https://www.semeru.com.br/blog/"><img src="https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&label=Semeru&logoColor=white"/></a>
+[![GitHub followers](https://img.shields.io/github/followers/leandrocgsi.svg?style=social&label=Follow)](https://github.com/leandrocgsi?tab=followers)
+<a href="https://hub.docker.com/u/leandrocgsi/"><img src="https://img.shields.io/badge/DockerHub-leandrocgsi-blue"/></a>
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=ZJ4NQJXEKQ63A)
+<a href="https://stackoverflow.com/users/4784591/leandro-costa">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-41-F47F24">
+</a>
+<a>![visitor badge](https://visitor-badge.glitch.me/badge?page_id=leandrocgsi.visitor-badge)</a>
+
 #
 
 ### ⚡ Github Stats</b></summary>
-![Metrics](https://metrics.lecoq.io/leandrocgsi?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=America%2FSao_Paulo)
+[comment]: ![Metrics](https://metrics.lecoq.io/leandrocgsi?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=America%2FSao_Paulo)
 
 <div align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrocgsi&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=default"/>	
@@ -63,9 +80,13 @@
 
 # My Courses
 
-[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/tests_java.png?raw=true "Java Unit Testing com Spring Boot 3, TDD, Junit 5 e Mockito")](https://www.udemy.com/course/java-unit-testing-com-java-spring-boot-3-junit-5-e-mockito/?couponCode=GTHB_FLASH_SALE2021)
-
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/rest_apis_restful_do_0_à_nuvem_com_spring_boot_2_e_docker.png?raw=true "REST API's RESTFul do 0 à AWS com Spring Boot 3, Java e Docker")](https://www.udemy.com/course/restful-apis-do-0-a-nuvem-com-springboot-e-docker/?couponCode=GTHB_FLASH_SALE2021)
+
+[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/24_TestsJava.png?raw=true "Java Unit Testing com Spring Boot 3, TDD, Junit 5 e Mockito")](https://www.udemy.com/course/java-unit-testing-com-java-spring-boot-3-junit-5-e-mockito/?couponCode=GTHB_FLASH_SALE2021)
+
+[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/27_CICD_JavaAWS.png?raw=true "Java Continuous Integration and Delivery com AWS e Github Actions")](https://www.udemy.com/course/java-continuous-integration-continuous-delivery-aws-e-github-actions/?couponCode=LAUNCH_CDCD_JAVA)
+
+[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/28_CICD_JavaAzure.png?raw=true "Java Continuous Integration and Delivery with Azure and Github Actions")](https://www.udemy.com/course/java-continuous-integration-continuous-delivery-azure-e-github-actions/?couponCode=GTHB_FLASH_SALE2021)
 
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/docker_do_zero_a_maestria_conteinerizacao_desmistificada.png?raw=true "Docker do Zero à Maestria - Contêinerização Desmistificada")](https://www.udemy.com/course/docker-do-zero-a-maestria-conteinerizacao-desmistificada/?couponCode=GTHB_FLASH_SALE2021)
 
@@ -110,20 +131,6 @@
 
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/docker_to_amazon_aws_deploy_apps_java_and_dot_net_with_travis_ci.png?raw=true "Docker to Amazon AWS Deploy Java & .NET Apps with Travis CI")](https://www.udemy.com/course/docker-to-amazon-aws-deploy-java-net-apps-with-travis-ci/?couponCode=GTHB_FLASH_SALE2021)
 
-### Let's connect? 🤝
-
-<p align="left">
-
-<a href="https://linkedin.com/in/ldcgsi/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UCQF3M1Lvv0IITTC0rdTtN6Q"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
-<a href="https://www.erudio.com.br/blog/"><img src="https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&label=Erudio&logoColor=white"/></a>
-<a href="https://www.semeru.com.br/blog/"><img src="https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&label=Semeru&logoColor=white"/></a>
-[![GitHub followers](https://img.shields.io/github/followers/leandrocgsi.svg?style=social&label=Follow)](https://github.com/leandrocgsi?tab=followers)
-<a href="https://hub.docker.com/u/leandrocgsi/"><img src="https://img.shields.io/badge/DockerHub-leandrocgsi-blue"/></a>
-<a href="https://stackoverflow.com/users/4784591/leandro-costa">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-31-F47F24">
-</a>
-<a>![visitor badge](https://visitor-badge.glitch.me/badge?page_id=leandrocgsi.visitor-badge)</a>
 
 </p>
 
