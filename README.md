@@ -56,8 +56,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=erudio-microservices)](https://github.com/leandrocgsi/erudio-microservices)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=DockerFromZeroToMastery)](https://github.com/leandrocgsi/DockerFromZeroToMastery)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=DockerFromZeroToMastery-NodeJS-ReactJS)](https://github.com/leandrocgsi/DockerFromZeroToMastery-NodeJS-ReactJS )
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=DockerFromZeroToMastery-SpingBootAndJava)](https://github.com/leandrocgsi/DockerFromZeroToMastery-SpingBootAndJava)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=DockerFromZeroToMastery-ASP-NETCore)](https://github.com/leandrocgsi/DockerFromZeroToMastery-ASP-NETCore)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=DockerFromZeroToMastery-SpingBoot-3.2.0-AndJava21)](https://github.com/leandrocgsi/DockerFromZeroToMastery-SpingBoot-3.2.0-AndJava21)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=DockerFromZeroToMastery-ASP-NET-8)](https://github.com/leandrocgsi/DockerFromZeroToMastery-ASP-NET-8)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=DockerToAWSWithJava)](https://github.com/leandrocgsi/DockerToAWSWithJava)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=DockerToAWSWithDotNet)](https://github.com/leandrocgsi/DockerToAWSWithDotNet)
 
