@@ -67,7 +67,7 @@
 # Most Popular Repos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=RestWithASP-NET5Udemy)](https://github.com/leandrocgsi/RestWithASP-NET5Udemy)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=rest-with-spring-boot-and-java-erudio)](https://github.com/leandrocgsi/rest-with-spring-boot-and-java-erudio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=rest-with-spring-boot-and-java-erudio)](https://github.com/leandrocgsi/rest-with-spring-boot-and-java-erudio-v2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=erudio-microservices-dotnet6)](https://github.com/leandrocgsi/erudio-microservices-dotnet6)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=erudio-microservices)](https://github.com/leandrocgsi/erudio-microservices)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=DockerFromZeroToMastery)](https://github.com/leandrocgsi/DockerFromZeroToMastery)
