@@ -1,33 +1,33 @@
 ### 🚀 Languages and Tools:
 
-<table><tr>
-<td><img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></td>
-<td><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" /></td>
-<td><img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" /></td>
-<td><img width="30" height="30" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/groovy_logo.png" title="Groovy" alt="Groovy" /></td>
-<td><img width="25" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/kotlin_logo.png" title="Kotlin" alt="Kotlin" /></td>
-<td><img height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/nodejs.png" title="Node JS" alt="Node JS" /></td>
-<td><img width="25" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/html_logo.png" title="HTML" alt="HTML" /></td>
-<td><img width="25" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/css_logo.png" title="CSS" alt="CSS" /></td>
-<td><img height="25" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/2331dded51784b78b8b66fd83037b2f2e28943e3/svg_logos/docker_logo.svg" title="Docker" alt="Docker" /></td>
-<td><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" alt="Terminal" /></td>
-<td><img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" /></td>
-<td><img width="25" height="25" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" title="Hibernate" alt="Hibernate" /></td>
-<td><img width="25" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/grails-logo.jpg" title="Grails" alt="Grails" /></td>
-<td><img width="25" height="25" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_maven.svg" title="Apache Maven" alt="Apache Maven" /></td>
-<td><img width="25" height="25" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" title="Jenkins" alt="Jenkins" /></td>
-<td><img width="25" height="25" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" title="Travis CI" alt="Travis CI" /></td>
-<td><img width="25" height="25" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" /></td>
-<td><img width="25" height="25" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" title="Swagger" alt="Swagger" /></td>
-<td><img width="25" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/amazon_aws-icon.png" title="Amazon AWS" alt="Amazon AWS" /></td>
-<td><img width="25" height="25" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="Microsoft Azure" alt="Microsoft Azure" /></td>
-<td><img width="25" height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" alt="MySQL" /></td>
-<td><img width="25" height="25" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="Postgres SQL" alt="Postgres SQL" /></td>
-<td><img width="25" height="25" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" title="Oracle" alt="Oracle" /></td>
-<td><img width="22" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/microsoft-sql-server.png" title="SQL Server" alt="SQL Server" /></td>
-<td><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="GIT" alt="GIT" /></td>
-<td><img width="25" height="25" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/main/svg_logos/react-original-wordmark.svg" title="React JS" alt="React JS" /></td>
-<td><img width="25" height="25" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/main/svg_logos/angularjs-original.svg" title="Angular JS" alt="Angular JS" /></td>
+<table style="border: none;"><tr style="border: none;">
+<td style="border: none; padding: 4px;"><img height="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></td>
+<td style="border: none; padding: 4px;"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" /></td>
+<td style="border: none; padding: 4px;"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" /></td>
+<td style="border: none; padding: 4px;"><img height="40" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/groovy_logo.png" title="Groovy" alt="Groovy" /></td>
+<td style="border: none; padding: 4px;"><img height="40" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/kotlin_logo.png" title="Kotlin" alt="Kotlin" /></td>
+<td style="border: none; padding: 4px;"><img height="40" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/nodejs.png" title="Node JS" alt="Node JS" /></td>
+<td style="border: none; padding: 4px;"><img height="40" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/html_logo.png" title="HTML" alt="HTML" /></td>
+<td style="border: none; padding: 4px;"><img height="40" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/css_logo.png" title="CSS" alt="CSS" /></td>
+<td style="border: none; padding: 4px;"><img height="40" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/2331dded51784b78b8b66fd83037b2f2e28943e3/svg_logos/docker_logo.svg" title="Docker" alt="Docker" /></td>
+<td style="border: none; padding: 4px;"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" alt="Terminal" /></td>
+<td style="border: none; padding: 4px;"><img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" /></td>
+<td style="border: none; padding: 4px;"><img height="40" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" title="Hibernate" alt="Hibernate" /></td>
+<td style="border: none; padding: 4px;"><img height="40" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/grails-logo.jpg" title="Grails" alt="Grails" /></td>
+<td style="border: none; padding: 4px;"><img height="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_maven.svg" title="Apache Maven" alt="Apache Maven" /></td>
+<td style="border: none; padding: 4px;"><img height="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" title="Jenkins" alt="Jenkins" /></td>
+<td style="border: none; padding: 4px;"><img height="40" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" title="Travis CI" alt="Travis CI" /></td>
+<td style="border: none; padding: 4px;"><img height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" /></td>
+<td style="border: none; padding: 4px;"><img height="40" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" title="Swagger" alt="Swagger" /></td>
+<td style="border: none; padding: 4px;"><img height="40" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/amazon_aws-icon.png" title="Amazon AWS" alt="Amazon AWS" /></td>
+<td style="border: none; padding: 4px;"><img height="40" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="Microsoft Azure" alt="Microsoft Azure" /></td>
+<td style="border: none; padding: 4px;"><img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" alt="MySQL" /></td>
+<td style="border: none; padding: 4px;"><img height="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="Postgres SQL" alt="Postgres SQL" /></td>
+<td style="border: none; padding: 4px;"><img height="40" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" title="Oracle" alt="Oracle" /></td>
+<td style="border: none; padding: 4px;"><img height="40" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/microsoft-sql-server.png" title="SQL Server" alt="SQL Server" /></td>
+<td style="border: none; padding: 4px;"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="GIT" alt="GIT" /></td>
+<td style="border: none; padding: 4px;"><img height="40" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/main/svg_logos/react-original-wordmark.svg" title="React JS" alt="React JS" /></td>
+<td style="border: none; padding: 4px;"><img height="40" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/main/svg_logos/angularjs-original.svg" title="Angular JS" alt="Angular JS" /></td>
 </tr></table>
 
 ### Let's connect? 🤝
