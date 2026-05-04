@@ -67,7 +67,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=RestWithASP-NET5Udemy)](https://github.com/leandrocgsi/RestWithASP-NET5Udemy)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=erudio-microservices-dotnet6)](https://github.com/leandrocgsi/erudio-microservices-dotnet6)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=DockerFromZeroToMastery)](https://github.com/leandrocgsi/DockerFromZeroToMastery)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=DockerFromZeroToMastery-NodeJS-ReactJS)](https://github.com/leandrocgsi/DockerFromZeroToMastery-NodeJS-ReactJS )
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=DockerFromZeroToMastery-NodeJS-ReactJS)](https://github.com/leandrocgsi/DockerFromZeroToMastery-NodeJS-ReactJS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=DockerFromZeroToMastery-SpingBoot-3.2.0-AndJava21)](https://github.com/leandrocgsi/DockerFromZeroToMastery-SpingBoot-3.2.0-AndJava21)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=DockerFromZeroToMastery-ASP-NET-8)](https://github.com/leandrocgsi/DockerFromZeroToMastery-ASP-NET-8)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocgsi&repo=DockerToAWSWithJava)](https://github.com/leandrocgsi/DockerToAWSWithJava)
@@ -87,7 +87,7 @@
 
 [![Image](https://raw.githubusercontent.com/leandrocgsi/blog-images/refs/heads/main/formacoes_github/14-microservices-java.png?raw=true "Formação Microsserviços 2026: do Zero ao Deploy na Google Cloud com Spring Boot, Kubernetes e Docker")](https://pub.erudio.com.br/formacao-microsservicos-2026-do-zero-ao-deploy-na-google-cloud-com-spring-boot-kubernetes-e-docker?utm_source=github&utm_medium=organic&utm_campaign=readme&utm_content=profile)
 
-[![Image](https://raw.githubusercontent.com/leandrocgsi/blog-images/refs/heads/main/formacoes_github/15-microservices-asp-net.png?raw=true "Formação Microsserviços com Spring Cloud, Spring Boot, Kotlin, Docker, Kubernetes e Zookeeper")](https://pub.erudio.com.br/formacao-microsservicos-com-spring-cloud-spring-boot-kotlin-docker-e-zookeeper?utm_source=github&utm_medium=organic&utm_campaign=readme&utm_content=profile)
+[![Image](https://raw.githubusercontent.com/leandrocgsi/blog-images/refs/heads/main/formacoes_github/22-ms-kotlin.png?raw=true "Formação Microsserviços com Spring Cloud, Spring Boot, Kotlin, Docker, Kubernetes e Zookeeper")](https://pub.erudio.com.br/formacao-microsservicos-com-spring-cloud-spring-boot-kotlin-docker-e-zookeeper?utm_source=github&utm_medium=organic&utm_campaign=readme&utm_content=profile)
 
 [![Image](https://raw.githubusercontent.com/leandrocgsi/blog-images/refs/heads/main/formacoes_github/01-rest-asp-net.png?raw=true "Formação ASP.NET 2026: do Zero ao Deploy na Azure e GCP com .NET 10, Docker e Kubernetes")](https://pub.erudio.com.br/asp-net-2026-do-0-a-azure-e-gcp-com-asp-net-10-docker-e-kubernetes?utm_source=github&utm_medium=organic&utm_campaign=readme&utm_content=profile)
 
@@ -101,11 +101,11 @@
 
 [![Image](https://raw.githubusercontent.com/leandrocgsi/blog-images/refs/heads/main/formacoes_github/13-career.png?raw=true "Carreira em TI do Zero ao Exterior: Currículo, Entrevistas, Negociação e Crescimento Profissional")](https://pub.erudio.com.br/carreira-em-ti-do-zero-ao-exterior-curriculo-entrevistas-negociacao-e-crescimento-profissional?utm_source=github&utm_medium=organic&utm_campaign=readme&utm_content=profile)
 
-[![Image](https://raw.githubusercontent.com/leandrocgsi/blog-images/refs/heads/main/formacoes_github/22-ms-kotlin.png?raw=true "Formação Microsserviços com Spring Cloud, Spring Boot, Kotlin, Docker, Kubernetes e Zookeeper")](https://pub.erudio.com.br/formacao-microsservicos-com-spring-cloud-spring-boot-kotlin-docker-e-zookeeper?utm_source=github&utm_medium=organic&utm_campaign=readme&utm_content=profile)
-
 ---
 
 <!-- Cursos sem correspondência no novo padrão -->
+
+[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/microservices_.net6.png?raw=true "Arquitetura de Microsserviços do 0 com ASP.NET, .NET 6 e C#")](https://www.udemy.com/course/microservices-do-0-a-gcp-com-dot-net-6-kubernetes-e-docker/?couponCode=GTHB_FLASH_SALE2021)
 
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/react_kotlin.png?raw=true "React JS consumindo REST API RESTful em Spring Boot e Kotlin")](https://www.udemy.com/course/aprenda-consumir-apis-restful-em-spring-boot-kotlin-com-react-js-axios/?couponCode=GTHB_FLASH_SALE2021)
 
