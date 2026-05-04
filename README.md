@@ -1,10 +1,11 @@
-#<h3>🚀 Languages and Tools</h3>
+<h3>🚀 Languages and Tools</h3>
 
 <h4>Languages</h4>
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" title="Java" width="42" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="42" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="42" />
   <img src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/groovy_logo.png" alt="Groovy" title="Groovy" width="42" />
   <img src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/kotlin_logo.png" alt="Kotlin" title="Kotlin" width="42" />
 </p>
@@ -26,9 +27,19 @@
   <img src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/main/svg_logos/angularjs-original.svg" alt="Angular" title="Angular" width="42" />
 </p>
 
+<h4>Testing</h4>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="JUnit" title="JUnit" width="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mockito/mockito-original.svg" alt="Mockito" title="Mockito" width="42" />
+  <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" alt="Rest Assured" title="Rest Assured" width="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET Testing" title=".NET Testing" width="42" />
+</p>
+
 <h4>DevOps & CI/CD</h4>
 <p align="left">
   <img src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/2331dded51784b78b8b66fd83037b2f2e28943e3/svg_logos/docker_logo.svg" alt="Docker" title="Docker" width="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" title="Kubernetes" width="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="42" />
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" title="Jenkins" width="42" />
   <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="Travis CI" title="Travis CI" width="42" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" title="Terminal" width="42" />
@@ -44,6 +55,7 @@
 <h4>Cloud</h4>
 <p align="left">
   <img src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/amazon_aws-icon.png" alt="AWS" title="AWS" width="42" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" title="Google Cloud" width="42" />
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" title="Azure" width="42" />
 </p>
 
