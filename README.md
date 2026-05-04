@@ -113,8 +113,6 @@
 
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/react_.net6.png?raw=true "React JS consumindo REST API RESTful em ASP.NET Core .NET 6")](https://www.udemy.com/course/aprenda-consumir-apis-restful-em-asp-dot-net-core-6-com-react-js-axios/?couponCode=GTHB_FLASH_SALE2021)
 
-[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/docker_para_amazon_aws_implante_apps_java_e_dot_net_com_travis_ci.png?raw=true "Docker para Amazon AWS Implante Apps Java e .NET com Travis CI")](https://www.udemy.com/course/docker-para-amazon-aws-implante-aplicacoes-java-e-net/?couponCode=GTHB_FLASH_SALE2021)
-
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/agile.png?raw=true "Agile desmistificado com Scrum, XP, Kanban, Spotify e Trello")](https://www.udemy.com/course/agile-no-mundo-real-scrum-xp-kanban-e-spotify-desmistificados/?couponCode=GTHB_FLASH_SALE2021)
 
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/trello.png?raw=true "Trello: Gestão Otimizada de Equipes e Projetos Pessoais")](https://www.udemy.com/course/trello-gestao-otimizada-de-equipes-e-projetos-pessoais/?couponCode=GTHB_FLASH_SALE2021)
