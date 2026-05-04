@@ -96,7 +96,7 @@
 
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/microservices_kotlin.png?raw=true "Microservices do 0 à GCP com Spring Cloud, Kotlin, K8s e Docker")](https://www.udemy.com/course/microsservicos-do-0-a-gcp-c-spring-cloud-kotlin-kubernetes-e-docker/?couponCode=GTHB_FLASH_SALE2021)
 
-[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/rest_apis_restful_do_0_a_nuvem_com_asp_net_core_e_docker.png?raw=true "REST API's RESTFul do 0 à Azure com ASP.NET Core 5 e Docker")](https://www.udemy.com/course/restful-apis-do-0-a-nuvem-com-aspnet-core-e-docker/?couponCode=GTHB_FLASH_SALE2021)
+[![Image](https://raw.githubusercontent.com/leandrocgsi/blog-images/refs/heads/main/formacoes_github/01-rest-asp-net.png?raw=true "Formação ASP.NET 2026: do Zero ao Deploy na Azure e GCP com .NET 10, Docker e Kubernetes")](https://pub.erudio.com.br/asp-net-2026-do-0-a-azure-e-gcp-com-asp-net-10-docker-e-kubernetes?utm_source=github&utm_medium=organic&utm_campaign=readme&utm_content=profile)
 
 [![Image](https://raw.githubusercontent.com/leandrocgsi/RestWithSpringBootUdemy/master/Images/kotlin_4_devs_java.png?raw=true "Kotlin para DEVs Java: Aprenda a Linguagem Padrão do Android")](https://www.udemy.com/course/kotlin-para-devs-java-domine-a-linguagem-padrao-do-android/?couponCode=GTHB_FLASH_SALE2021)
 
