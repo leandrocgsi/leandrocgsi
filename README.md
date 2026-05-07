@@ -166,10 +166,10 @@
 
 </p>
 
-### ⚡ Technologies Stats</b></summary>
+### ⚡ Technologies Stats
 
-<div id="statistics_contributions_block_id" align="center" style="align-content: center; text-align:center;">
- <a href="https://profile.codersrank.io/user/leandrocgsi" target="_blank">
- <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=leandrocgsi&heigth=300" alt="CodersRank skills chart" />
- </a>
+<div align="center">
+  <a href="https://profile.codersrank.io/user/leandrocgsi" target="_blank">
+    <img src="https://cr-skills-chart-widget.azurewebsites.net/api?username=leandrocgsi&height=300" alt="CodersRank skills chart" />
+  </a>
 </div>
